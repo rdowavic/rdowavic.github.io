@@ -7,6 +7,7 @@ If you're trying to input control characters into idk, a C program, here's a ref
 
 | Character Sequence | Hexademical Representation | Control character Code |
 |--------------------|----------------------------|------------------------|
+| Control+space | 0x0 | NUL |
 | Control+A | 0x1| (SOH) | 
 | Control+B | 0x2| (STX) |
 | Control+C | 0x3| (ETX) |
